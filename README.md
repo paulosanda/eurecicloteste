@@ -1,5 +1,5 @@
 # eurecicloteste
-**
+**Script Linux Shell executando PHP
  * Teste realizado por Paulo Sanda
  * email: paulosanda@gmail.com
  * WhatsApp: (18) 99154 3620
