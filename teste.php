@@ -121,9 +121,8 @@ foreach($resumos AS $fim)
         array_push($finalres, $nsaldo);
     } 
 }
-//var_dump($resposta);
-//echo 'Resposta: '."[".$resposta[0]['vols']."]".' , '.' sobra '.$resposta[0]['saldo'];
-//echo "/n";
+
+$qtidadegarrafas = array();
 foreach($finalres AS $fg)
 {
     array_push($qtidadegarrafas,$fg['quantidade']);
